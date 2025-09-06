@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "laoting Server",
+      "address": "https://anisette-v3-server-fv6s.onrender.com"
+    }
+  ]
+}
